@@ -100,112 +100,112 @@
     },
     {
       "id": "u015",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "汐辞",
       "role": "employee"
     },
     {
       "id": "u016",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "霖鹤",
       "role": "employee"
     },
     {
       "id": "u017",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "雾寻",
       "role": "employee"
     },
     {
       "id": "u018",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "阿汀",
       "role": "employee"
     },
     {
       "id": "u019",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "云绵",
       "role": "employee"
     },
     {
       "id": "u020",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "阮商枝",
       "role": "employee"
     },
     {
       "id": "u021",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "九朝",
       "role": "employee"
     },
     {
       "id": "u022",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "栗柚",
       "role": "employee"
     },
     {
       "id": "u023",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "沐芽",
       "role": "employee"
     },
     {
       "id": "u024",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "炸蛋",
       "role": "employee"
     },
     {
       "id": "u025",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "困困",
       "role": "employee"
     },
     {
       "id": "u026",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "花祈",
       "role": "employee"
     },
     {
       "id": "u027",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "柒久",
       "role": "employee"
     },
     {
       "id": "u028",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "尤米",
       "role": "employee"
     },
     {
       "id": "u029",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "木鱼",
       "role": "employee"
     },
     {
       "id": "u030",
-      "group": "2组",
+      "group": "分店2-商业长篇",
       "position": "AI学员",
       "name": "辣椒油",
       "role": "employee"
@@ -239,9 +239,10 @@
   ],
   "groups": [
     "分店1-原创",
-    "2组",
-    "3组",
-    "管理组"
+    "分店2-商业长篇",
+    "分店3-商业短片",
+    "管理组",
+    "培养"
   ],
   "positions": [
     "AI剪辑",
@@ -268,5 +269,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-22T07:59:56.157Z"
+  "updatedAt": "2026-10-22T08:00:45.789Z"
 }
