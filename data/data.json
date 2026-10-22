@@ -16,7 +16,7 @@
     },
     {
       "id": "u003",
-      "group": "分店1-原创",
+      "group": "分店3-商业短片",
       "position": "AI美术",
       "name": "朝临",
       "role": "employee"
@@ -65,14 +65,14 @@
     },
     {
       "id": "u010",
-      "group": "分店1-原创",
+      "group": "分店3-商业短片",
       "position": "AI生成师",
       "name": "木川",
       "role": "employee"
     },
     {
       "id": "u011",
-      "group": "分店1-原创",
+      "group": "分店3-商业短片",
       "position": "AI生成师",
       "name": "柟清",
       "role": "employee"
@@ -86,7 +86,7 @@
     },
     {
       "id": "u013",
-      "group": "分店1-原创",
+      "group": "分店3-商业短片",
       "position": "AI生成师",
       "name": "凉果",
       "role": "employee"
@@ -269,5 +269,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-22T08:06:56.163Z"
+  "updatedAt": "2026-10-22T08:08:06.162Z"
 }
