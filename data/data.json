@@ -100,21 +100,21 @@
     },
     {
       "id": "u015",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "汐辞",
       "role": "employee"
     },
     {
       "id": "u016",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "霖鹤",
       "role": "employee"
     },
     {
       "id": "u017",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "雾寻",
       "role": "employee"
@@ -212,20 +212,20 @@
     },
     {
       "id": "u031",
-      "group": "管理组",
+      "group": "项目管理",
       "position": "项目经理",
       "name": "项目经理",
       "role": "manager"
     },
     {
-      "group": "管理组",
+      "group": "项目管理",
       "position": "项目经理",
       "name": "八喜",
       "role": "manager",
       "id": "u1792652067555"
     },
     {
-      "group": "管理组",
+      "group": "项目管理",
       "position": "项目经理",
       "name": "知知",
       "role": "manager",
@@ -241,7 +241,7 @@
     "分店1-原创",
     "分店2-商业长篇",
     "分店3-商业短片",
-    "管理组",
+    "项目管理",
     "培养"
   ],
   "positions": [
@@ -269,5 +269,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-22T08:00:45.789Z"
+  "updatedAt": "2026-10-22T08:01:55.787Z"
 }
