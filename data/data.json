@@ -2,98 +2,98 @@
   "users": [
     {
       "id": "u001",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI剪辑",
       "name": "浩枫",
       "role": "employee"
     },
     {
       "id": "u002",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI剪辑",
       "name": "波本",
       "role": "employee"
     },
     {
       "id": "u003",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI美术",
       "name": "朝临",
       "role": "employee"
     },
     {
       "id": "u004",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI美术",
       "name": "瑞鑫",
       "role": "employee"
     },
     {
       "id": "u005",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI美术",
       "name": "六胖",
       "role": "employee"
     },
     {
       "id": "u006",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI美术",
       "name": "松鼠",
       "role": "employee"
     },
     {
       "id": "u007",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI美术",
       "name": "见手青",
       "role": "employee"
     },
     {
       "id": "u008",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI美术",
       "name": "维生素",
       "role": "employee"
     },
     {
       "id": "u009",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI生成师",
       "name": "邦子",
       "role": "employee"
     },
     {
       "id": "u010",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI生成师",
       "name": "木川",
       "role": "employee"
     },
     {
       "id": "u011",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI生成师",
       "name": "柟清",
       "role": "employee"
     },
     {
       "id": "u012",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI生成师",
       "name": "荔枝言",
       "role": "employee"
     },
     {
       "id": "u013",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI生成师",
       "name": "凉果",
       "role": "employee"
     },
     {
       "id": "u014",
-      "group": "1组",
+      "group": "分店1-原创",
       "position": "AI生成师",
       "name": "西江月",
       "role": "employee"
@@ -238,7 +238,7 @@
     "项目C"
   ],
   "groups": [
-    "1组",
+    "分店1-原创",
     "2组",
     "3组",
     "管理组"
@@ -254,7 +254,7 @@
     {
       "userId": "u005",
       "userName": "六胖",
-      "userGroup": "1组",
+      "userGroup": "分店1-原创",
       "userPosition": "AI美术",
       "project": "项目A",
       "taskType": "设定",
@@ -268,5 +268,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-22T07:03:27.122Z"
+  "updatedAt": "2026-10-22T07:59:56.157Z"
 }
