@@ -216,6 +216,13 @@
       "position": "项目经理",
       "name": "项目经理",
       "role": "manager"
+    },
+    {
+      "group": "管理组",
+      "position": "项目经理",
+      "name": "八喜",
+      "role": "manager",
+      "id": "u1792652067555"
     }
   ],
   "projects": [
@@ -237,5 +244,5 @@
     "项目经理"
   ],
   "tasks": [],
-  "updatedAt": "2026-10-22T06:45:27.476Z"
+  "updatedAt": "2026-10-22T06:54:32.763Z"
 }
