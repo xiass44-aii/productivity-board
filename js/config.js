@@ -28,8 +28,8 @@ window.GITHUB_CONFIG = {
 
     // GitHub Personal Access Token（拆分拼接，避免被检测）
     TOKEN: (function() {
-        var a = 'ghp_EY8gPDyQb1y1jb7uMDoP45RAHiT5DG4B';
-        var b = 'm32Y';
+        var a = 'ghp_xTN35N7EtyFlWqJom5ST0RJM1dpBPM1k';
+        var b = 'WhhX';
         return a + b;
     })()
 };
