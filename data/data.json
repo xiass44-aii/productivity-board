@@ -1,8 +1,10 @@
 {
   "users": [],
   "projects": [],
-  "groups": [],
+  "groups": [
+    "项目经理"
+  ],
   "positions": [],
   "tasks": [],
-  "updatedAt": "2026-10-22T00:00:00.000Z"
+  "updatedAt": "2026-10-22T05:36:06.536Z"
 }
