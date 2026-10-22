@@ -1,14 +1,241 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "u001",
+      "group": "1组",
+      "position": "AI剪辑",
+      "name": "浩枫",
+      "role": "employee"
+    },
+    {
+      "id": "u002",
+      "group": "1组",
+      "position": "AI剪辑",
+      "name": "波本",
+      "role": "employee"
+    },
+    {
+      "id": "u003",
+      "group": "1组",
+      "position": "AI美术",
+      "name": "朝临",
+      "role": "employee"
+    },
+    {
+      "id": "u004",
+      "group": "1组",
+      "position": "AI美术",
+      "name": "瑞鑫",
+      "role": "employee"
+    },
+    {
+      "id": "u005",
+      "group": "1组",
+      "position": "AI美术",
+      "name": "六胖",
+      "role": "employee"
+    },
+    {
+      "id": "u006",
+      "group": "1组",
+      "position": "AI美术",
+      "name": "松鼠",
+      "role": "employee"
+    },
+    {
+      "id": "u007",
+      "group": "1组",
+      "position": "AI美术",
+      "name": "见手青",
+      "role": "employee"
+    },
+    {
+      "id": "u008",
+      "group": "1组",
+      "position": "AI美术",
+      "name": "维生素",
+      "role": "employee"
+    },
+    {
+      "id": "u009",
+      "group": "1组",
+      "position": "AI生成师",
+      "name": "邦子",
+      "role": "employee"
+    },
+    {
+      "id": "u010",
+      "group": "1组",
+      "position": "AI生成师",
+      "name": "木川",
+      "role": "employee"
+    },
+    {
+      "id": "u011",
+      "group": "1组",
+      "position": "AI生成师",
+      "name": "柟清",
+      "role": "employee"
+    },
+    {
+      "id": "u012",
+      "group": "1组",
+      "position": "AI生成师",
+      "name": "荔枝言",
+      "role": "employee"
+    },
+    {
+      "id": "u013",
+      "group": "1组",
+      "position": "AI生成师",
+      "name": "凉果",
+      "role": "employee"
+    },
+    {
+      "id": "u014",
+      "group": "1组",
+      "position": "AI生成师",
+      "name": "西江月",
+      "role": "employee"
+    },
+    {
+      "id": "u015",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "汐辞",
+      "role": "employee"
+    },
+    {
+      "id": "u016",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "霖鹤",
+      "role": "employee"
+    },
+    {
+      "id": "u017",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "雾寻",
+      "role": "employee"
+    },
+    {
+      "id": "u018",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "阿汀",
+      "role": "employee"
+    },
+    {
+      "id": "u019",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "云绵",
+      "role": "employee"
+    },
+    {
+      "id": "u020",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "阮商枝",
+      "role": "employee"
+    },
+    {
+      "id": "u021",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "九朝",
+      "role": "employee"
+    },
+    {
+      "id": "u022",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "栗柚",
+      "role": "employee"
+    },
+    {
+      "id": "u023",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "沐芽",
+      "role": "employee"
+    },
+    {
+      "id": "u024",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "炸蛋",
+      "role": "employee"
+    },
+    {
+      "id": "u025",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "困困",
+      "role": "employee"
+    },
+    {
+      "id": "u026",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "花祈",
+      "role": "employee"
+    },
+    {
+      "id": "u027",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "柒久",
+      "role": "employee"
+    },
+    {
+      "id": "u028",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "尤米",
+      "role": "employee"
+    },
+    {
+      "id": "u029",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "木鱼",
+      "role": "employee"
+    },
+    {
+      "id": "u030",
+      "group": "2组",
+      "position": "AI学员",
+      "name": "辣椒油",
+      "role": "employee"
+    },
+    {
+      "id": "u031",
+      "group": "管理组",
+      "position": "项目经理",
+      "name": "项目经理",
+      "role": "manager"
+    }
+  ],
   "projects": [
-    "测试项目"
+    "项目A",
+    "项目B",
+    "项目C"
   ],
   "groups": [
-    "分店1"
+    "1组",
+    "2组",
+    "3组",
+    "管理组"
   ],
   "positions": [
+    "AI剪辑",
+    "AI美术",
+    "AI生成师",
+    "AI学员",
     "项目经理"
   ],
   "tasks": [],
-  "updatedAt": "2026-10-22T05:48:22.600Z"
+  "updatedAt": "2026-10-22T06:45:27.476Z"
 }
