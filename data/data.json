@@ -121,91 +121,91 @@
     },
     {
       "id": "u018",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "阿汀",
       "role": "employee"
     },
     {
       "id": "u019",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "云绵",
       "role": "employee"
     },
     {
       "id": "u020",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "阮商枝",
       "role": "employee"
     },
     {
       "id": "u021",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "九朝",
       "role": "employee"
     },
     {
       "id": "u022",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "栗柚",
       "role": "employee"
     },
     {
       "id": "u023",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "沐芽",
       "role": "employee"
     },
     {
       "id": "u024",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "炸蛋",
       "role": "employee"
     },
     {
       "id": "u025",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "困困",
       "role": "employee"
     },
     {
       "id": "u026",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "花祈",
       "role": "employee"
     },
     {
       "id": "u027",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "柒久",
       "role": "employee"
     },
     {
       "id": "u028",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "尤米",
       "role": "employee"
     },
     {
       "id": "u029",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "木鱼",
       "role": "employee"
     },
     {
       "id": "u030",
-      "group": "分店2-商业长篇",
+      "group": "培养",
       "position": "AI学员",
       "name": "辣椒油",
       "role": "employee"
@@ -269,5 +269,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-22T08:01:55.787Z"
+  "updatedAt": "2026-10-22T08:03:05.789Z"
 }
