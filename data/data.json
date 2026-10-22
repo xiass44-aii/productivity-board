@@ -250,6 +250,23 @@
     "AI学员",
     "项目经理"
   ],
-  "tasks": [],
-  "updatedAt": "2026-10-22T06:55:14.781Z"
+  "tasks": [
+    {
+      "userId": "u005",
+      "userName": "六胖",
+      "userGroup": "1组",
+      "userPosition": "AI美术",
+      "project": "项目A",
+      "taskType": "设定",
+      "unit": "张",
+      "passedCount": 10,
+      "inProgressCount": 10,
+      "progress": 50,
+      "weekKey": "2026-W43",
+      "screenshots": [],
+      "id": "t1792652601610",
+      "createdAt": "2026-10-22T07:03:21.610Z"
+    }
+  ],
+  "updatedAt": "2026-10-22T07:03:27.122Z"
 }
