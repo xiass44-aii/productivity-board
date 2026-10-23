@@ -24,14 +24,14 @@
     {
       "id": "u004",
       "group": "分店1-原创",
-      "position": "AI美术",
+      "position": "AI生成师",
       "name": "瑞鑫",
       "role": "employee"
     },
     {
       "id": "u005",
       "group": "分店1-原创",
-      "position": "AI美术",
+      "position": "AI生成师",
       "name": "六胖",
       "role": "employee"
     },
@@ -258,7 +258,7 @@
       "userId": "u005",
       "userName": "六胖",
       "userGroup": "分店1-原创",
-      "userPosition": "AI美术",
+      "userPosition": "AI生成师",
       "project": "项目A",
       "taskType": "设定",
       "unit": "张",
@@ -271,5 +271,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-23T02:04:51.440Z"
+  "updatedAt": "2026-10-23T07:09:04.921Z"
 }
