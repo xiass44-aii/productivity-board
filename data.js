@@ -540,6 +540,24 @@ const DataManager = {
 
     // ========== GitHub 同步 ==========
     _githubSyncing: false,
+    _syncTimer: null,       // 防抖定时器
+    _syncPending: false,    // 是否有待同步的变更
+
+    // 标记数据有变更，防抖同步（避免连续操作导致冲突）
+    markCloudDirty() {
+        this._cloudDirty = true;
+        this._syncPending = true;
+        // 清除之前的定时器
+        if (this._syncTimer) {
+            clearTimeout(this._syncTimer);
+        }
+        // 2 秒后如果没有新的变更，就同步一次
+        this._syncTimer = setTimeout(() => {
+            if (this._syncPending && isCloudEnabled()) {
+                syncToRemote();
+            }
+        }, 2000);
+    },
 
     // 从 GitHub 拉取数据
     async syncFromGitHub() {
@@ -595,6 +613,7 @@ const DataManager = {
             };
             await GitHubData.writeData(data);
             this._cloudDirty = false;
+            this._syncPending = false;
             console.log('✅ 数据已同步到 GitHub');
         } catch (e) {
             console.error('GitHub 上传失败:', e);
@@ -710,8 +729,8 @@ const DataManager = {
         if (typeof original === 'function') {
             DataManager[methodName] = function () {
                 const result = original.apply(this, arguments);
-                // 异步标记 dirty，让写操作先完成
-                setTimeout(() => DataManager.markCloudDirty(), 0);
+                // 使用防抖同步，避免连续操作导致冲突
+                DataManager.markCloudDirty();
                 return result;
             };
         }
@@ -751,13 +770,6 @@ if (isCloudEnabled()) {
         console.warn('云端同步失败，使用本地数据:', err.message);
     });
     
-    // 每 10 秒同步一次到云端（如果有变更）
-    setInterval(() => {
-        if (DataManager._cloudDirty) {
-            syncToRemote();
-        }
-    }, 10000);
-
     // 每 30 秒从云端拉取一次，获取其他人的更新
     setInterval(() => {
         syncFromRemote();
