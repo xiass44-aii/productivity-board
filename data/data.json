@@ -52,7 +52,7 @@
     {
       "id": "u008",
       "group": "分店2-商业长篇",
-      "position": "AI美术",
+      "position": "AI生成师",
       "name": "维生素",
       "role": "employee"
     },
@@ -271,5 +271,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-23T07:09:56.226Z"
+  "updatedAt": "2026-10-23T07:10:28.016Z"
 }
