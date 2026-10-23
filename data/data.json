@@ -329,7 +329,23 @@
       "screenshots": [],
       "id": "t1792739788855",
       "createdAt": "2026-10-23T07:16:28.855Z"
+    },
+    {
+      "userId": "u012",
+      "userName": "荔枝言",
+      "userGroup": "分店1-原创",
+      "userPosition": "AI生成师",
+      "project": "项目A",
+      "taskType": "设定",
+      "unit": "张",
+      "passedCount": 2,
+      "inProgressCount": 2,
+      "progress": 100,
+      "weekKey": "2026-W43",
+      "screenshots": [],
+      "id": "t1792750881201",
+      "createdAt": "2026-10-23T10:21:21.201Z"
     }
   ],
-  "updatedAt": "2026-10-23T07:24:53.485Z"
+  "updatedAt": "2026-10-23T10:21:26.128Z"
 }
