@@ -237,6 +237,13 @@
       "name": "谷鸽",
       "role": "employee",
       "id": "u1792740016519"
+    },
+    {
+      "group": "培养",
+      "position": "AI生成师",
+      "name": "潘子",
+      "role": "employee",
+      "id": "u1792740096485"
     }
   ],
   "projects": [
@@ -310,5 +317,5 @@
       "createdAt": "2026-10-23T07:16:28.855Z"
     }
   ],
-  "updatedAt": "2026-10-23T07:20:24.795Z"
+  "updatedAt": "2026-10-23T07:21:38.407Z"
 }
