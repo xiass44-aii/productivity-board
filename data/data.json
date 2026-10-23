@@ -24,7 +24,7 @@
     {
       "id": "u004",
       "group": "分店1-原创",
-      "position": "AI生成师",
+      "position": "AI美术",
       "name": "瑞鑫",
       "role": "employee"
     },
@@ -269,5 +269,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-23T01:52:30.811Z"
+  "updatedAt": "2026-10-23T01:53:20.810Z"
 }
