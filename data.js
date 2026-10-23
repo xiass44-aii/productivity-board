@@ -563,6 +563,8 @@ const DataManager = {
     async syncFromGitHub() {
         if (!GitHubData || !GitHubData.isEnabled()) return;
         if (this._githubSyncing) return;
+        // 本地有待同步的变更时，不拉取，避免覆盖本地数据
+        if (this._syncPending || this._cloudDirty) return;
         this._githubSyncing = true;
 
         try {
