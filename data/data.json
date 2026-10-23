@@ -285,7 +285,23 @@
       "screenshots": [],
       "id": "t1792739714039",
       "createdAt": "2026-10-23T07:15:14.039Z"
+    },
+    {
+      "userId": "u005",
+      "userName": "六胖",
+      "userGroup": "分店1-原创",
+      "userPosition": "AI生成师",
+      "project": "蜜雪冰城番剧第一季-MXFAKZ",
+      "taskType": "单帧",
+      "unit": "张",
+      "passedCount": 10,
+      "inProgressCount": 10,
+      "progress": 50,
+      "weekKey": "2026-W43",
+      "screenshots": [],
+      "id": "t1792739788855",
+      "createdAt": "2026-10-23T07:16:28.855Z"
     }
   ],
-  "updatedAt": "2026-10-23T07:15:22.115Z"
+  "updatedAt": "2026-10-23T07:16:33.799Z"
 }
