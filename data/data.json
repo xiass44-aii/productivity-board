@@ -38,14 +38,14 @@
     {
       "id": "u006",
       "group": "分店3-商业短片",
-      "position": "AI美术",
+      "position": "AI生成师",
       "name": "松鼠",
       "role": "employee"
     },
     {
       "id": "u007",
       "group": "分店2-商业长篇",
-      "position": "AI美术",
+      "position": "AI生成师",
       "name": "见手青",
       "role": "employee"
     },
@@ -271,5 +271,5 @@
       "createdAt": "2026-10-22T07:03:21.610Z"
     }
   ],
-  "updatedAt": "2026-10-23T07:09:04.921Z"
+  "updatedAt": "2026-10-23T07:09:56.226Z"
 }
